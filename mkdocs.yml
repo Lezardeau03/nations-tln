@@ -32,3 +32,63 @@ nav:
       - Geography: flux/geography.md
       - Culture: flux/culture.md
       - Laws: flux/laws/index.md
+  - France:
+      - Overview: france/index.md
+      - Government: france/government.md
+      - Geography: france/geography.md
+      - Culture: france/culture.md
+      - Laws: france/laws/index.md
+  - United States:
+      - Overview: united-states/index.md
+      - Government: united-states/government.md
+      - Geography: united-states/geography.md
+      - Culture: united-states/culture.md
+      - Laws: united-states/laws/index.md
+  - Japan:
+      - Overview: japan/index.md
+      - Government: japan/government.md
+      - Geography: japan/geography.md
+      - Culture: japan/culture.md
+      - Laws: japan/laws/index.md
+  - China:
+      - Overview: china/index.md
+      - Government: china/government.md
+      - Geography: china/geography.md
+      - Culture: china/culture.md
+      - Laws: china/laws/index.md
+  - United Kingdom:
+      - Overview: united-kingdom/index.md
+      - Government: united-kingdom/government.md
+      - Geography: united-kingdom/geography.md
+      - Culture: united-kingdom/culture.md
+      - Laws: united-kingdom/laws/index.md
+  - Germany:
+      - Overview: germany/index.md
+      - Government: germany/government.md
+      - Geography: germany/geography.md
+      - Culture: germany/culture.md
+      - Laws: germany/laws/index.md
+  - Italy:
+      - Overview: italy/index.md
+      - Government: italy/government.md
+      - Geography: italy/geography.md
+      - Culture: italy/culture.md
+      - Laws: italy/laws/index.md
+  - Canada:
+      - Overview: canada/index.md
+      - Government: canada/government.md
+      - Geography: canada/geography.md
+      - Culture: canada/culture.md
+      - Laws: canada/laws/index.md
+  - Australia:
+      - Overview: australia/index.md
+      - Government: australia/government.md
+      - Geography: australia/geography.md
+      - Culture: australia/culture.md
+      - Laws: australia/laws/index.md
+  - Brazil:
+      - Overview: brazil/index.md
+      - Government: brazil/government.md
+      - Geography: brazil/geography.md
+      - Culture: brazil/culture.md
+      - Laws: brazil/laws/index.md
