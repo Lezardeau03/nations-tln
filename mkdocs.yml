@@ -1,6 +1,6 @@
 site_name: Nations Registry
 site_description: Official national records, government information, geography, culture, and laws.
-site_url: https://Lezardeau03.github.io/nations_tln/
+site_url: https://Lezardeau03.github.io/nations-tln/
 
 theme:
   name: material
