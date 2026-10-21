@@ -1,4 +1,4 @@
-# Nations Registry
+# Nations Registry 
 
 A lightweight MkDocs site for server nations, governments, geography, culture, and laws.
 
